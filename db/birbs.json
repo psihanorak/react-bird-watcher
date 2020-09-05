@@ -1,0 +1,213 @@
+{
+  "birbs": {
+    "birb1": {
+      "type": "eagle",
+      "color": "green",
+      "size": "small",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "white",
+      "wasSleeping": true,
+      "location": "NSS parking lot",
+      "notes": "pretty bird",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb2": {
+      "type": "sparrow",
+      "color": "black",
+      "size": "large",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "brown",
+      "wasSleeping": true,
+      "location": "tree",
+      "notes": "made me turn around and leave immediately",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb3": {
+      "type": "seahawk",
+      "color": "orange",
+      "size": "medium",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "white",
+      "wasSleeping": true,
+      "location": "at the park",
+      "notes": "was a loud birb",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb4": {
+      "type": "flamingo",
+      "color": "pink",
+      "size": "large",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "black",
+      "wasSleeping": false,
+      "location": "Opryland Hotel",
+      "notes": "i liked this one",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb5": {
+      "type": "blue jay",
+      "color": "blue",
+      "size": "small",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "white",
+      "wasSleeping": true,
+      "location": "In the sky",
+      "notes": "just flying around, tweeting",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb6": {
+      "type": "parrot",
+      "color": "green",
+      "size": "medium",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "orange",
+      "wasSleeping": false,
+      "location": "public beach",
+      "notes": "loud and liked saying things",
+      "uid": "sdfawrf43453g"
+    },
+    "birb7": {
+      "type": "barn owl",
+      "color": "brown",
+      "size": "large",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "white",
+      "wasSleeping": true,
+      "location": "a barn. Duh.",
+      "notes": "It was sleeping because it was daytime",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb8": {
+      "type": "hummingbird",
+      "color": "cyan",
+      "size": "small",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "white",
+      "wasSleeping": false,
+      "location": "backyard",
+      "notes": "was eating some sugar",
+      "uid": "sdfawrf43453g"
+    },
+    "birb9": {
+      "type": "finch",
+      "color": "grey",
+      "size": "small",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "orange",
+      "wasSleeping": true,
+      "location": "bird house",
+      "notes": "",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb10": {
+      "type": "birds-of-paradise",
+      "color": "black",
+      "size": "small",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "shiny blue",
+      "wasSleeping": false,
+      "location": "table",
+      "notes": "tap to add one mana of any color",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb11": {
+      "type": "Swallow",
+      "color": "blue",
+      "size": "small",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "white",
+      "wasSleeping": false,
+      "location": "stick",
+      "notes": "smol",
+      "uid": "sdfawrf43453g"
+    },
+    "birb12": {
+      "type": "woodpecker",
+      "color": "black",
+      "size": "medium",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "red",
+      "wasSleeping": true,
+      "location": "My tree in the backyard",
+      "notes": "v loud",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb13": {
+      "type": "heron",
+      "color": "aquamarine",
+      "size": "large",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "white",
+      "wasSleeping": false,
+      "location": "the lake",
+      "notes": "I liked this one",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb14": {
+      "type": "wren",
+      "color": "brown",
+      "size": "small",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "brown",
+      "wasSleeping": true,
+      "location": "on a rock",
+      "notes": "just a lil guy",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb15": {
+      "type": "albatross",
+      "color": "white",
+      "size": "medium",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "coral",
+      "wasSleeping": true,
+      "location": "california",
+      "notes": "big daddy",
+      "uid": "12345"
+    },
+    "birb16": {
+      "type": "swift",
+      "color": "black",
+      "size": "small",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "black",
+      "wasSleeping": true,
+      "location": "flying around",
+      "notes": "v cool shape",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb17": {
+      "type": "potoo",
+      "color": "grey",
+      "size": "small",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "yellow",
+      "wasSleeping": false,
+      "location": "following me around",
+      "notes": "look at it's eyes!!!",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    },
+    "birb18": {
+      "type": "stork",
+      "color": "azure",
+      "size": "large",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "pink",
+      "wasSleeping": false,
+      "location": "the hospital",
+      "notes": "👼🏻",
+      "uid": "sdfawrf43453g"
+    },
+    "birb19": {
+      "type": "kingfisher",
+      "color": "blue",
+      "size": "small",
+      "seenAt": "2020-08-27T15:14:54-05:00",
+      "altColor": "orange",
+      "wasSleeping": true,
+      "location": "Oceania",
+      "notes": "it is very pretty",
+      "uid": "dLycFkGSp6eECw46NYXoTdAz0K72"
+    }
+  }
+}
