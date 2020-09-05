@@ -11,7 +11,7 @@ import 'firebase/auth';
 import Auth from '../components/pages/Auth/Auth';
 import EditBirb from '../components/pages/EditBirb/EditBirb';
 import Home from '../components/pages/Home/Home';
-import MyNavbar from '../components/pages/MyNavbar/MyNavbar';
+import MyNavbar from '../components/pages/NyNavbar/MyNavbar';
 import NewBirb from '../components/pages/NewBirb/NewBirb';
 import SingleBirb from '../components/pages/SingleBirb/SingleBirb';
 

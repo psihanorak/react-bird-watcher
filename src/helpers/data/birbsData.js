@@ -2,7 +2,7 @@ import axios from 'axios';
 
 import apiKeys from '../apiKeys.json';
 
-const baseUrl = apiKeys.firebaseConfig.databaseURL;
+const baseUrl = apiKeys.firebaseKeys.databaseURL;
 
 const getBirbsByUid = (uid) => new Promise((resolve, reject) => {
   axios.get(`${baseUrl}/birbs.json?orderBy="uid"&equalTo="${uid}"`)
